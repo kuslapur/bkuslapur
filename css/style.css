@@ -39,6 +39,7 @@ ul li.active a{
     color: black;
 }
 
+
 .logo h1{
     text-decoration: none;
     float: left;
@@ -47,6 +48,8 @@ ul li.active a{
     padding: 20px;
     border: 1px solid;
     border-radius: 100%;
+    
+        
 }
 
 .main{
@@ -63,5 +66,9 @@ ul li.active a{
 
 .title h1{
     color: black;
-    font-size: 70px;  
+    font-size: 70px;
+    
 }
+
+
+
