@@ -40,15 +40,21 @@ ul li.active a{
 }
 
 
-.logo img{
+.logo h1{
+    text-decoration: none;
     float: left;
-    width: 150px;
-    height: 2cm;
+    font-size: 15px;
+    color: crimson;
+    padding: 20px;
+    border: 1px solid;
+    border-radius: 100%;
+    
+        
 }
 
 .main{
     max-width: 1200px;
-    margin: auto;
+    margin: auto
 }
 
 .title{
@@ -61,6 +67,7 @@ ul li.active a{
 .title h1{
     color: black;
     font-size: 70px;
+    
 }
 
 
